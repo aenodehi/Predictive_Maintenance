@@ -32,6 +32,7 @@ Note: RUL means remaining useful life.
 | MAPM*     | x | 4 | 5 | x | Other |
 | PPD       | x | 25 | | x | CC-BY-SA |
 | UFD       |  | 37-52 | 4 |  | Other |
+| PCOE       |  |  |  |  | NASA |
 
 </center>
 
@@ -118,6 +119,8 @@ which may help with interactive data processing and visualization.
 [https://www.kaggle.com/inIT-OWL/production-plant-data-for-condition-monitoring](https://www.kaggle.com/inIT-OWL/production-plant-data-for-condition-monitoring)
 1. UFD: Ultrasonic flowmeter diagnostics Data Set:  
 [https://archive.ics.uci.edu/ml/datasets/Ultrasonic+flowmeter+diagnostics](https://archive.ics.uci.edu/ml/datasets/Ultrasonic+flowmeter+diagnostics)
+1. PCOE: NASA Prognostics Center of Excellence Data Set Repository:  
+[https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 
 -----
 1. Birkl, Christoph. Oxford Battery Degradation Dataset 1. University of Oxford, 2017.  
