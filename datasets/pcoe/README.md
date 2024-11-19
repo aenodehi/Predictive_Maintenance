@@ -102,17 +102,22 @@ Preliminary data from thermal overstress accelerated aging using the aging and c
 
 ---
 
-### 11. Randomized Battery Usage
-**Description**: Batteries are continuously cycled with randomly generated current profiles. Reference charging and discharging cycles are also performed after a fixed interval of randomized usage to provide reference benchmarks for battery state of health.  
-**Download**: Part 1 – Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-1-Random-Walk/ugxu-9kjx)  
+### 11. Randomized Battery Usage  
+**Dataset Description**:  
+Batteries are continuously cycled with randomly generated current profiles. Reference charging and discharging cycles are also performed after a fixed interval of randomized usage to provide reference benchmarks for battery state of health.  
+**Download**:  
+- Part 1 – Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-1-Random-Walk/ugxu-9kjx)  
 - Part 2 – Room Temperature Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-2-Room-Temperature-Random/qghr-qkfw)  
-- Part 3 – Room Temperate Variable Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-3-Room-Temperature-Variab/ed33-vxp2)  
+- Part 3 – Room Temperature Variable Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-3-Room-Temperature-Variab/ed33-vxp2)  
 - Part 4 – 40C Right-Skewed Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-4-40C-Right-Skewed-Random/gah6-q2es)  
 - Part 5 – High-Temperature Right-Skewed Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-5-High-Temperature-Right-/tcjd-g74p)  
 - Part 6 – 40C Left-Skewed Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-6-40C-Left-Skewed-Random-/5uxu-h2h6)  
 - Part 7 – Low-Temperature Left-Skewed Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-7-Low-Temperature-Left-Sk/sb48-rsbc) | [Mirror](https://phm-datasets.s3.amazonaws.com/NASA/11.+Randomized+Battery+Usage+Data+Set.zip)  
-**Data Set Citation**: B. Bole, C. Kulkarni, and M. Daigle “Randomized Battery Usage Data Set”, NASA Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA  
-**Publication Citation**: B. Bole, C. Kulkarni, and M. Daigle, ‘Adaptation of an Electrochemistry-based Li-Ion Battery Model to Account for Deterioration Observed Under Randomized Use’, Annual Conference of the Prognostics and Health Management Society, 2014
+
+**Data Set Citation**:  
+B. Bole, C. Kulkarni, and M. Daigle, “Randomized Battery Usage Data Set”, NASA Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA.  
+**Publication Citation**:  
+B. Bole, C. Kulkarni, and M. Daigle, ‘Adaptation of an Electrochemistry-based Li-Ion Battery Model to Account for Deterioration Observed Under Randomized Use’, Annual Conference of the Prognostics and Health Management Society, 2014.
 
 ---
 
