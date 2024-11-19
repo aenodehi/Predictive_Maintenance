@@ -22,7 +22,7 @@ Below is a summary of the available data sets with descriptions, download links,
 
 ### 1. Algae Raceway
 **Description**: Experiments on 3 small raceways with Spirulina. Data includes algae growth, decline, and environmental parameters. 
-Experiments were conducted on 3 small raceways in which spirulina was inoculated. The growth and, ultimately, decline of the algae biomass was recorded along with several environmental parameters. Experiments were conducted by the Exobiology group at NASA Ames. \n
+Experiments were conducted on 3 small raceways in which spirulina was inoculated. The growth and, ultimately, decline of the algae biomass was recorded along with several environmental parameters. Experiments were conducted by the Exobiology group at NASA Ames.  
 **Download**: [Link](https://data.nasa.gov/download/bs7h-ane5/application%2Fzip) | [Mirror](https://phm-datasets.s3.amazonaws.com/NASA/1.+Algae+Raceway.zip)  
 **Data Set Citation**: Brad Bebout, et al. (NASA Ames Research Center)
 
