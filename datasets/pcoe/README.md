@@ -72,7 +72,7 @@ Engine degradation simulation was carried out using the Commercial Modular Aero-
 **Description**: Data from the 2008 PHM data challenge for turbofan engines. Remaining Useful Life (RUL) is not revealed.  
 Data from the data challenge competition held at the 1st international conference on Prognostics and Health Management (PHM08) is similar to the one posted above (see the Turbofan Engine Degradation Simulation data set) except the true Remaining Useful Life (RUL) values are not revealed. Users are expected to develop their algorithms using training and test sets provided in the package. The data set was provided by the NASA Prognostics Center of Excellence (PCoE).  
 **Download**: [Link](https://data.nasa.gov/download/nk8v-ckry/application%2Fzip)  
-**Data Set Citation**: A. Saxena and K. Goebel (NASA Ames Research Center)
+**Data Set Citation**: A. Saxena and K. Goebel (NASA Ames Research Center)  
 **Note**: 
   - Results should be formatted as a column vector of RULs in a text file.
   - Evaluation is limited to only one trial per day.
@@ -104,7 +104,7 @@ Preliminary data from thermal overstress accelerated aging using the aging and c
 
 ### 11. Randomized Battery Usage
 **Description**: Batteries are continuously cycled with randomly generated current profiles. Reference charging and discharging cycles are also performed after a fixed interval of randomized usage to provide reference benchmarks for battery state of health.  
-**Download**: Part 1 – Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-1-Random-Walk/ugxu-9kjx)
+**Download**: Part 1 – Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-1-Random-Walk/ugxu-9kjx)  
 - Part 2 – Room Temperature Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-2-Room-Temperature-Random/qghr-qkfw)  
 - Part 3 – Room Temperate Variable Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-3-Room-Temperature-Variab/ed33-vxp2)  
 - Part 4 – 40C Right-Skewed Random Walk: [link](https://data.nasa.gov/Raw-Data/Randomized-Battery-Usage-4-40C-Right-Skewed-Random/gah6-q2es)  
